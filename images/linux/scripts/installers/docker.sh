@@ -28,6 +28,10 @@ docker pull alpine:3.7
 docker pull alpine:3.8
 docker pull alpine:3.9
 docker pull alpine:3.10
+docker pull ruby:2.5
+docker pull ruby:2.6
+docker pull ruby:2.5-alpine
+docker pull ruby:2.6-alpine
 
 ## Add version information to the metadata file
 echo "Documenting Docker version"
